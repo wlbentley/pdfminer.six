@@ -73,14 +73,6 @@ but it's also possible to extract some meaningful contents (e.g. images).
 (For details, refer to /docs/index.html.)
 
 
-TODO
-----
-
- * PEP-8 and PEP-257 conformance.
- * Better documentation.
- * Performance improvements.
-
-
 Terms and Conditions
 --------------------
 

@@ -11,6 +11,7 @@ _update.bat
 /Goulib.egg-info/
 /build/
 /dist/
+.tox/
 /pdfminer.six.egg-info/
 tests/*.xml
 tests/*.txt
